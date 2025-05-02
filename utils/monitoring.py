@@ -23,9 +23,6 @@ def check_person_in_frame(frame):
         faces = detect_face(frame)
         if len(faces) > 0:
             return True
-            
-        # Method 2: HOG-based human detection
-        # Convert frame to appropriate size
         resized_frame = cv2.resize(frame, (640, 480))
         
         # Initialize HOG descriptor for human detection

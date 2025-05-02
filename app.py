@@ -51,7 +51,6 @@ def main():
         uploaded_file = st.file_uploader("Upload a clear photo of your face", type=["jpg", "jpeg", "png"])
         
         if uploaded_file is not None:
-            # Save reference image to session state
             reference_img = Image.open(uploaded_file)
             st.session_state.reference_image = reference_img
             st.image(reference_img, caption="Reference Image", width=250)

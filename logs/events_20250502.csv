@@ -1,0 +1,576 @@
+Timestamp,Event,Details
+2025-05-02 09:55:47,Identity Verification,Success
+2025-05-02 09:56:13,Monitoring,Started
+2025-05-02 09:56:19,Violation,Multiple persons detected (2)
+2025-05-02 09:56:19,Violation,Multiple persons detected (2)
+2025-05-02 09:56:19,Violation,Multiple persons detected (2)
+2025-05-02 09:56:20,Violation,Multiple persons detected (2)
+2025-05-02 09:56:20,Violation,Multiple persons detected (2)
+2025-05-02 09:56:20,Violation,Multiple persons detected (2)
+2025-05-02 09:56:21,Violation,Multiple persons detected (2)
+2025-05-02 09:56:21,Violation,Multiple persons detected (2)
+2025-05-02 09:56:21,Violation,Multiple persons detected (2)
+2025-05-02 09:56:21,Violation,Multiple persons detected (2)
+2025-05-02 09:56:22,Violation,Multiple persons detected (2)
+2025-05-02 09:56:22,Violation,Multiple persons detected (2)
+2025-05-02 09:56:22,Violation,Multiple persons detected (2)
+2025-05-02 09:56:22,Violation,Multiple persons detected (2)
+2025-05-02 09:56:22,Violation,Multiple persons detected (2)
+2025-05-02 09:56:23,Violation,Multiple persons detected (2)
+2025-05-02 09:56:23,Violation,Multiple persons detected (2)
+2025-05-02 09:56:23,Violation,Multiple persons detected (2)
+2025-05-02 09:56:23,Violation,Multiple persons detected (2)
+2025-05-02 09:56:23,Violation,Multiple persons detected (2)
+2025-05-02 09:56:24,Violation,Multiple persons detected (2)
+2025-05-02 09:56:24,Violation,Multiple persons detected (2)
+2025-05-02 09:56:24,Violation,Multiple persons detected (2)
+2025-05-02 09:56:24,Violation,Multiple persons detected (2)
+2025-05-02 09:56:24,Violation,Multiple persons detected (2)
+2025-05-02 09:56:25,Violation,Multiple persons detected (2)
+2025-05-02 09:56:25,Violation,Multiple persons detected (2)
+2025-05-02 09:56:25,Violation,Multiple persons detected (2)
+2025-05-02 09:56:25,Violation,Multiple persons detected (2)
+2025-05-02 09:56:25,Violation,Multiple persons detected (2)
+2025-05-02 09:56:26,Violation,Multiple persons detected (2)
+2025-05-02 09:56:26,Violation,Multiple persons detected (2)
+2025-05-02 09:56:27,Violation,Multiple persons detected (2)
+2025-05-02 09:56:27,Violation,Multiple persons detected (2)
+2025-05-02 09:56:27,Violation,Multiple persons detected (2)
+2025-05-02 09:56:27,Violation,Multiple persons detected (2)
+2025-05-02 09:56:27,Violation,Multiple persons detected (2)
+2025-05-02 09:56:28,Violation,No person in frame
+2025-05-02 09:56:28,Violation,No face detected
+2025-05-02 09:56:29,Violation,No person in frame
+2025-05-02 09:56:29,Violation,No face detected
+2025-05-02 09:56:31,Violation,Multiple persons detected (2)
+2025-05-02 09:56:31,Violation,Multiple persons detected (2)
+2025-05-02 09:56:32,Violation,No person in frame
+2025-05-02 09:56:32,Violation,No face detected
+2025-05-02 09:56:32,Violation,No person in frame
+2025-05-02 09:56:32,Violation,No face detected
+2025-05-02 09:56:32,Violation,No person in frame
+2025-05-02 09:56:32,Violation,No face detected
+2025-05-02 09:56:33,Violation,No person in frame
+2025-05-02 09:56:33,Violation,No face detected
+2025-05-02 09:56:33,Violation,No person in frame
+2025-05-02 09:56:33,Violation,No face detected
+2025-05-02 09:56:33,Violation,No person in frame
+2025-05-02 09:56:33,Violation,No face detected
+2025-05-02 09:56:33,Violation,No person in frame
+2025-05-02 09:56:33,Violation,No face detected
+2025-05-02 09:56:34,Violation,No person in frame
+2025-05-02 09:56:34,Violation,No face detected
+2025-05-02 09:56:34,Violation,No person in frame
+2025-05-02 09:56:34,Violation,No face detected
+2025-05-02 09:56:34,Violation,No person in frame
+2025-05-02 09:56:34,Violation,No face detected
+2025-05-02 09:56:34,Violation,No person in frame
+2025-05-02 09:56:34,Violation,No face detected
+2025-05-02 09:56:35,Violation,No person in frame
+2025-05-02 09:56:35,Violation,No face detected
+2025-05-02 09:56:35,Violation,No person in frame
+2025-05-02 09:56:35,Violation,No face detected
+2025-05-02 09:56:35,Violation,No person in frame
+2025-05-02 09:56:35,Violation,No face detected
+2025-05-02 09:56:35,Violation,No person in frame
+2025-05-02 09:56:35,Violation,No face detected
+2025-05-02 09:56:36,Violation,No person in frame
+2025-05-02 09:56:36,Violation,No face detected
+2025-05-02 09:56:36,Violation,No person in frame
+2025-05-02 09:56:36,Violation,No face detected
+2025-05-02 09:56:37,Violation,No person in frame
+2025-05-02 09:56:37,Violation,No face detected
+2025-05-02 09:56:37,Violation,No person in frame
+2025-05-02 09:56:37,Violation,No face detected
+2025-05-02 09:56:37,Violation,No person in frame
+2025-05-02 09:56:37,Violation,No face detected
+2025-05-02 09:56:38,Violation,No person in frame
+2025-05-02 09:56:38,Violation,No face detected
+2025-05-02 09:56:38,Violation,Multiple persons detected (2)
+2025-05-02 09:56:38,Violation,Multiple persons detected (2)
+2025-05-02 09:56:38,Violation,Multiple persons detected (2)
+2025-05-02 09:56:38,Violation,Multiple persons detected (2)
+2025-05-02 09:56:39,Violation,Multiple persons detected (2)
+2025-05-02 09:56:39,Violation,Multiple persons detected (2)
+2025-05-02 09:56:39,Violation,Multiple persons detected (2)
+2025-05-02 09:56:39,Violation,Multiple persons detected (2)
+2025-05-02 09:56:39,Violation,Multiple persons detected (2)
+2025-05-02 09:56:40,Violation,Multiple persons detected (2)
+2025-05-02 09:56:40,Violation,Multiple persons detected (2)
+2025-05-02 09:56:42,Violation,Multiple persons detected (2)
+2025-05-02 09:56:42,Violation,Multiple persons detected (2)
+2025-05-02 09:56:42,Violation,Multiple persons detected (3)
+2025-05-02 09:56:43,Violation,Multiple persons detected (2)
+2025-05-02 09:56:43,Violation,Multiple persons detected (2)
+2025-05-02 09:56:43,Violation,Multiple persons detected (2)
+2025-05-02 09:56:43,Violation,Multiple persons detected (2)
+2025-05-02 09:56:43,Violation,Multiple persons detected (2)
+2025-05-02 09:56:44,Violation,Multiple persons detected (2)
+2025-05-02 09:56:44,Violation,Multiple persons detected (2)
+2025-05-02 09:56:44,Violation,Multiple persons detected (2)
+2025-05-02 09:56:44,Violation,Multiple persons detected (2)
+2025-05-02 09:56:45,Violation,Multiple persons detected (2)
+2025-05-02 09:56:45,Violation,Multiple persons detected (2)
+2025-05-02 09:56:46,Violation,Multiple persons detected (2)
+2025-05-02 09:56:47,Violation,Multiple persons detected (2)
+2025-05-02 09:56:47,Violation,Multiple persons detected (2)
+2025-05-02 09:56:47,Violation,Multiple persons detected (2)
+2025-05-02 09:56:47,Violation,Multiple persons detected (2)
+2025-05-02 09:56:48,Violation,Multiple persons detected (2)
+2025-05-02 09:56:48,Violation,No person in frame
+2025-05-02 09:56:48,Violation,No face detected
+2025-05-02 09:56:49,Violation,Multiple persons detected (2)
+2025-05-02 09:56:49,Violation,Multiple persons detected (2)
+2025-05-02 09:56:49,Violation,Multiple persons detected (2)
+2025-05-02 09:56:49,Violation,Multiple persons detected (2)
+2025-05-02 09:56:50,Violation,Multiple persons detected (2)
+2025-05-02 09:56:50,Violation,Multiple persons detected (2)
+2025-05-02 09:56:51,Violation,No person in frame
+2025-05-02 09:56:51,Violation,No face detected
+2025-05-02 09:56:51,Violation,No person in frame
+2025-05-02 09:56:51,Violation,No face detected
+2025-05-02 09:56:51,Violation,Multiple persons detected (2)
+2025-05-02 09:56:52,Violation,Multiple persons detected (2)
+2025-05-02 09:56:52,Violation,Multiple persons detected (2)
+2025-05-02 09:56:52,Violation,Multiple persons detected (2)
+2025-05-02 09:56:52,Violation,Multiple persons detected (2)
+2025-05-02 09:56:53,Violation,Multiple persons detected (2)
+2025-05-02 09:56:53,Violation,Multiple persons detected (2)
+2025-05-02 09:56:53,Violation,Multiple persons detected (2)
+2025-05-02 09:56:53,Violation,Multiple persons detected (2)
+2025-05-02 09:56:53,Violation,Multiple persons detected (2)
+2025-05-02 09:56:54,Violation,Multiple persons detected (2)
+2025-05-02 09:56:54,Violation,Multiple persons detected (2)
+2025-05-02 09:56:54,Violation,Multiple persons detected (2)
+2025-05-02 09:56:54,Violation,Multiple persons detected (2)
+2025-05-02 09:56:55,Violation,Multiple persons detected (2)
+2025-05-02 09:56:55,Violation,Multiple persons detected (2)
+2025-05-02 09:56:55,Violation,Multiple persons detected (2)
+2025-05-02 09:56:55,Violation,Multiple persons detected (2)
+2025-05-02 09:56:56,Violation,Multiple persons detected (2)
+2025-05-02 09:56:56,Violation,Multiple persons detected (2)
+2025-05-02 09:56:57,Monitoring,Stopped
+2025-05-02 09:57:42,Identity Verification,Success
+2025-05-02 09:57:47,Monitoring,Started
+2025-05-02 09:57:53,Violation,Multiple persons detected (2)
+2025-05-02 09:57:53,Violation,Multiple persons detected (2)
+2025-05-02 09:57:53,Violation,Multiple persons detected (2)
+2025-05-02 09:57:54,Violation,Multiple persons detected (2)
+2025-05-02 09:57:54,Violation,Multiple persons detected (2)
+2025-05-02 09:57:54,Violation,Multiple persons detected (2)
+2025-05-02 09:57:54,Violation,Multiple persons detected (2)
+2025-05-02 09:57:54,Violation,Multiple persons detected (2)
+2025-05-02 09:57:55,Violation,Multiple persons detected (2)
+2025-05-02 09:57:55,Violation,Multiple persons detected (2)
+2025-05-02 09:57:55,Violation,Multiple persons detected (2)
+2025-05-02 09:57:55,Violation,Multiple persons detected (2)
+2025-05-02 09:57:55,Violation,Multiple persons detected (2)
+2025-05-02 09:57:56,Violation,Multiple persons detected (2)
+2025-05-02 09:57:56,Violation,Multiple persons detected (2)
+2025-05-02 09:57:56,Violation,Multiple persons detected (2)
+2025-05-02 09:57:56,Violation,Multiple persons detected (2)
+2025-05-02 09:57:56,Violation,Multiple persons detected (2)
+2025-05-02 09:57:57,Violation,Multiple persons detected (2)
+2025-05-02 09:57:57,Violation,Multiple persons detected (2)
+2025-05-02 09:57:57,Violation,Multiple persons detected (2)
+2025-05-02 09:57:58,Violation,Multiple persons detected (2)
+2025-05-02 09:57:58,Violation,Multiple persons detected (2)
+2025-05-02 09:57:58,Violation,Multiple persons detected (2)
+2025-05-02 09:57:58,Violation,Multiple persons detected (2)
+2025-05-02 09:57:59,Violation,Multiple persons detected (2)
+2025-05-02 09:57:59,Violation,Multiple persons detected (2)
+2025-05-02 09:57:59,Violation,Multiple persons detected (2)
+2025-05-02 09:57:59,Violation,Multiple persons detected (2)
+2025-05-02 09:58:00,Violation,Multiple persons detected (2)
+2025-05-02 09:58:00,Violation,Multiple persons detected (2)
+2025-05-02 09:58:00,Violation,Multiple persons detected (2)
+2025-05-02 09:58:00,Violation,Multiple persons detected (2)
+2025-05-02 09:58:00,Violation,Multiple persons detected (2)
+2025-05-02 09:58:01,Violation,Multiple persons detected (2)
+2025-05-02 09:58:01,Violation,Multiple persons detected (2)
+2025-05-02 09:58:01,Violation,Multiple persons detected (2)
+2025-05-02 09:58:01,Violation,Multiple persons detected (2)
+2025-05-02 09:58:01,Violation,Multiple persons detected (2)
+2025-05-02 09:58:02,Violation,Multiple persons detected (2)
+2025-05-02 09:58:02,Violation,Multiple persons detected (2)
+2025-05-02 09:58:02,Violation,No person in frame
+2025-05-02 09:58:02,Violation,No face detected
+2025-05-02 09:58:03,Violation,No person in frame
+2025-05-02 09:58:03,Violation,No face detected
+2025-05-02 09:58:03,Violation,No person in frame
+2025-05-02 09:58:03,Violation,No face detected
+2025-05-02 09:58:03,Violation,No person in frame
+2025-05-02 09:58:03,Violation,No face detected
+2025-05-02 09:58:03,Violation,No person in frame
+2025-05-02 09:58:04,Violation,No face detected
+2025-05-02 09:58:04,Violation,No person in frame
+2025-05-02 09:58:04,Violation,No face detected
+2025-05-02 09:58:04,Violation,No person in frame
+2025-05-02 09:58:04,Violation,No face detected
+2025-05-02 09:58:04,Violation,No person in frame
+2025-05-02 09:58:04,Violation,No face detected
+2025-05-02 09:58:05,Violation,No person in frame
+2025-05-02 09:58:05,Violation,No face detected
+2025-05-02 09:58:05,Violation,No person in frame
+2025-05-02 09:58:05,Violation,No face detected
+2025-05-02 09:58:05,Violation,No person in frame
+2025-05-02 09:58:05,Violation,No face detected
+2025-05-02 09:58:07,Violation,No person in frame
+2025-05-02 09:58:07,Violation,No face detected
+2025-05-02 09:58:07,Violation,No person in frame
+2025-05-02 09:58:07,Violation,No face detected
+2025-05-02 09:58:07,Violation,No person in frame
+2025-05-02 09:58:07,Violation,No face detected
+2025-05-02 09:58:08,Violation,No person in frame
+2025-05-02 09:58:08,Violation,No face detected
+2025-05-02 09:58:08,Violation,No person in frame
+2025-05-02 09:58:08,Violation,No face detected
+2025-05-02 09:58:08,Violation,No person in frame
+2025-05-02 09:58:08,Violation,No face detected
+2025-05-02 09:58:15,Violation,Multiple persons detected (2)
+2025-05-02 09:58:25,Violation,Multiple persons detected (2)
+2025-05-02 09:58:25,Violation,Multiple persons detected (3)
+2025-05-02 09:58:25,Violation,Multiple persons detected (2)
+2025-05-02 09:58:25,Violation,Multiple persons detected (2)
+2025-05-02 09:58:26,Violation,Multiple persons detected (2)
+2025-05-02 09:58:26,Violation,Multiple persons detected (2)
+2025-05-02 09:58:26,Violation,Multiple persons detected (2)
+2025-05-02 09:58:26,Violation,Multiple persons detected (2)
+2025-05-02 09:58:27,Violation,Multiple persons detected (2)
+2025-05-02 09:58:27,Violation,Multiple persons detected (2)
+2025-05-02 09:58:27,Violation,Multiple persons detected (2)
+2025-05-02 09:58:27,Violation,Multiple persons detected (2)
+2025-05-02 09:58:27,Violation,Multiple persons detected (2)
+2025-05-02 09:58:27,Monitoring,Stopped
+2025-05-02 10:04:10,Identity Verification,Success
+2025-05-02 10:04:18,Monitoring,Started
+2025-05-02 10:04:28,Violation,No person in frame
+2025-05-02 10:04:28,Violation,No face detected
+2025-05-02 10:04:28,Violation,No person in frame
+2025-05-02 10:04:28,Violation,No face detected
+2025-05-02 10:04:28,Violation,No person in frame
+2025-05-02 10:04:28,Violation,No face detected
+2025-05-02 10:04:29,Violation,No person in frame
+2025-05-02 10:04:29,Violation,No face detected
+2025-05-02 10:04:29,Violation,No person in frame
+2025-05-02 10:04:29,Violation,No face detected
+2025-05-02 10:04:29,Violation,No person in frame
+2025-05-02 10:04:29,Violation,No face detected
+2025-05-02 10:04:29,Violation,No person in frame
+2025-05-02 10:04:29,Violation,No face detected
+2025-05-02 10:04:30,Violation,No person in frame
+2025-05-02 10:04:30,Violation,No face detected
+2025-05-02 10:04:30,Violation,No face detected
+2025-05-02 10:04:30,Violation,No person in frame
+2025-05-02 10:04:30,Violation,No face detected
+2025-05-02 10:04:31,Violation,No person in frame
+2025-05-02 10:04:31,Violation,No face detected
+2025-05-02 10:04:32,Violation,No person in frame
+2025-05-02 10:04:32,Violation,No face detected
+2025-05-02 10:04:32,Violation,No person in frame
+2025-05-02 10:04:32,Violation,No face detected
+2025-05-02 10:04:47,Violation,No person in frame
+2025-05-02 10:04:47,Violation,No face detected
+2025-05-02 10:04:48,Violation,No person in frame
+2025-05-02 10:04:48,Violation,No face detected
+2025-05-02 10:04:50,Violation,No face detected
+2025-05-02 10:04:50,Violation,No face detected
+2025-05-02 10:04:50,Violation,No face detected
+2025-05-02 10:04:53,Violation,No face detected
+2025-05-02 10:04:54,Violation,No person in frame
+2025-05-02 10:04:54,Violation,No face detected
+2025-05-02 10:04:54,Violation,No person in frame
+2025-05-02 10:04:54,Violation,No face detected
+2025-05-02 10:04:54,Violation,No person in frame
+2025-05-02 10:04:54,Violation,No face detected
+2025-05-02 10:04:54,Violation,No face detected
+2025-05-02 10:04:55,Violation,No face detected
+2025-05-02 10:04:55,Violation,No person in frame
+2025-05-02 10:04:55,Violation,No face detected
+2025-05-02 10:04:55,Violation,No person in frame
+2025-05-02 10:04:55,Violation,No face detected
+2025-05-02 10:04:55,Violation,No person in frame
+2025-05-02 10:04:55,Violation,No face detected
+2025-05-02 10:04:56,Violation,No person in frame
+2025-05-02 10:04:56,Violation,No face detected
+2025-05-02 10:04:56,Violation,No face detected
+2025-05-02 10:04:57,Violation,No person in frame
+2025-05-02 10:04:57,Violation,No face detected
+2025-05-02 10:04:57,Violation,No person in frame
+2025-05-02 10:04:57,Violation,No face detected
+2025-05-02 10:04:57,Violation,No person in frame
+2025-05-02 10:04:57,Violation,No face detected
+2025-05-02 10:04:58,Violation,No person in frame
+2025-05-02 10:04:58,Violation,No face detected
+2025-05-02 10:04:58,Violation,No person in frame
+2025-05-02 10:04:58,Violation,No face detected
+2025-05-02 10:04:58,Violation,No person in frame
+2025-05-02 10:04:58,Violation,No face detected
+2025-05-02 10:04:58,Violation,No person in frame
+2025-05-02 10:04:58,Violation,No face detected
+2025-05-02 10:04:59,Violation,No person in frame
+2025-05-02 10:04:59,Violation,No face detected
+2025-05-02 10:04:59,Violation,No person in frame
+2025-05-02 10:04:59,Violation,No face detected
+2025-05-02 10:04:59,Violation,No person in frame
+2025-05-02 10:04:59,Violation,No face detected
+2025-05-02 10:05:00,Violation,No person in frame
+2025-05-02 10:05:00,Violation,No face detected
+2025-05-02 10:05:00,Violation,No person in frame
+2025-05-02 10:05:00,Violation,No face detected
+2025-05-02 10:05:00,Violation,No person in frame
+2025-05-02 10:05:00,Violation,No face detected
+2025-05-02 10:05:00,Violation,No person in frame
+2025-05-02 10:05:00,Violation,No face detected
+2025-05-02 10:05:01,Violation,No person in frame
+2025-05-02 10:05:01,Violation,No face detected
+2025-05-02 10:05:01,Violation,No person in frame
+2025-05-02 10:05:01,Violation,No face detected
+2025-05-02 10:05:01,Violation,No person in frame
+2025-05-02 10:05:01,Violation,No face detected
+2025-05-02 10:05:01,Violation,No person in frame
+2025-05-02 10:05:01,Violation,No face detected
+2025-05-02 10:05:02,Violation,No person in frame
+2025-05-02 10:05:02,Violation,No face detected
+2025-05-02 10:05:03,Violation,No face detected
+2025-05-02 10:05:03,Violation,No face detected
+2025-05-02 10:05:04,Monitoring,Stopped
+2025-05-02 10:17:06,Identity Verification,Failed
+2025-05-02 10:17:39,Identity Verification,Success
+2025-05-02 10:17:49,Monitoring,Started
+2025-05-02 10:17:56,Violation,No person in frame
+2025-05-02 10:17:56,Violation,No face detected
+2025-05-02 10:17:56,Violation,No person in frame
+2025-05-02 10:17:56,Violation,No face detected
+2025-05-02 10:17:56,Violation,No person in frame
+2025-05-02 10:17:56,Violation,No face detected
+2025-05-02 10:17:56,Violation,No person in frame
+2025-05-02 10:17:56,Violation,No face detected
+2025-05-02 10:17:57,Violation,No person in frame
+2025-05-02 10:17:57,Violation,No face detected
+2025-05-02 10:17:57,Violation,No person in frame
+2025-05-02 10:17:57,Violation,No face detected
+2025-05-02 10:17:57,Violation,No person in frame
+2025-05-02 10:17:57,Violation,No face detected
+2025-05-02 10:17:58,Violation,No face detected
+2025-05-02 10:17:59,Violation,No person in frame
+2025-05-02 10:17:59,Violation,No face detected
+2025-05-02 10:17:59,Violation,No face detected
+2025-05-02 10:18:11,Violation,No person in frame
+2025-05-02 10:18:11,Violation,No face detected
+2025-05-02 10:18:11,Violation,No person in frame
+2025-05-02 10:18:11,Violation,No face detected
+2025-05-02 10:18:11,Violation,No person in frame
+2025-05-02 10:18:11,Violation,No face detected
+2025-05-02 10:18:12,Violation,No person in frame
+2025-05-02 10:18:12,Violation,No face detected
+2025-05-02 10:18:12,Violation,No person in frame
+2025-05-02 10:18:12,Violation,No face detected
+2025-05-02 10:18:12,Violation,No person in frame
+2025-05-02 10:18:12,Violation,No face detected
+2025-05-02 10:18:12,Violation,No person in frame
+2025-05-02 10:18:12,Violation,No face detected
+2025-05-02 10:18:13,Violation,No person in frame
+2025-05-02 10:18:13,Violation,No face detected
+2025-05-02 10:18:13,Violation,No person in frame
+2025-05-02 10:18:13,Violation,No face detected
+2025-05-02 10:18:13,Violation,No person in frame
+2025-05-02 10:18:13,Violation,No face detected
+2025-05-02 10:18:27,Monitoring,Stopped
+2025-05-02 10:24:54,Identity Verification,Failed
+2025-05-02 10:25:12,Identity Verification,Failed
+2025-05-02 10:26:39,Identity Verification,Success
+2025-05-02 10:26:56,Identity Verification,Failed
+2025-05-02 10:27:09,Monitoring,Started
+2025-05-02 10:27:19,Monitoring,Stopped
+2025-05-02 10:27:28,Identity Verification,Success
+2025-05-02 10:28:01,Monitoring,Started
+2025-05-02 10:28:14,Violation,No person in frame
+2025-05-02 10:28:14,Violation,No face detected
+2025-05-02 10:28:15,Violation,No person in frame
+2025-05-02 10:28:15,Violation,No face detected
+2025-05-02 10:28:15,Violation,No person in frame
+2025-05-02 10:28:15,Violation,No face detected
+2025-05-02 10:28:15,Violation,No person in frame
+2025-05-02 10:28:15,Violation,No face detected
+2025-05-02 10:28:15,Violation,No person in frame
+2025-05-02 10:28:15,Violation,No face detected
+2025-05-02 10:28:16,Violation,No person in frame
+2025-05-02 10:28:16,Violation,No face detected
+2025-05-02 10:28:16,Violation,No person in frame
+2025-05-02 10:28:16,Violation,No face detected
+2025-05-02 10:28:16,Violation,No person in frame
+2025-05-02 10:28:16,Violation,No face detected
+2025-05-02 10:28:16,Violation,No person in frame
+2025-05-02 10:28:16,Violation,No face detected
+2025-05-02 10:28:16,Violation,No person in frame
+2025-05-02 10:28:16,Violation,No face detected
+2025-05-02 10:28:17,Violation,No person in frame
+2025-05-02 10:28:17,Violation,No face detected
+2025-05-02 10:28:17,Violation,No person in frame
+2025-05-02 10:28:17,Violation,No face detected
+2025-05-02 10:28:17,Violation,No person in frame
+2025-05-02 10:28:17,Violation,No face detected
+2025-05-02 10:28:17,Violation,No person in frame
+2025-05-02 10:28:17,Violation,No face detected
+2025-05-02 10:28:18,Violation,No person in frame
+2025-05-02 10:28:18,Violation,No face detected
+2025-05-02 10:28:18,Violation,No person in frame
+2025-05-02 10:28:18,Violation,No face detected
+2025-05-02 10:28:18,Violation,No person in frame
+2025-05-02 10:28:18,Violation,No face detected
+2025-05-02 10:28:18,Violation,No person in frame
+2025-05-02 10:28:18,Violation,No face detected
+2025-05-02 10:28:19,Violation,No person in frame
+2025-05-02 10:28:19,Violation,No face detected
+2025-05-02 10:28:19,Violation,No person in frame
+2025-05-02 10:28:19,Violation,No face detected
+2025-05-02 10:28:19,Violation,No person in frame
+2025-05-02 10:28:19,Violation,No face detected
+2025-05-02 10:28:19,Violation,No person in frame
+2025-05-02 10:28:19,Violation,No face detected
+2025-05-02 10:28:20,Violation,No face detected
+2025-05-02 10:28:20,Violation,No person in frame
+2025-05-02 10:28:20,Violation,No face detected
+2025-05-02 10:28:20,Violation,No person in frame
+2025-05-02 10:28:20,Violation,No face detected
+2025-05-02 10:28:20,Violation,No person in frame
+2025-05-02 10:28:20,Violation,No face detected
+2025-05-02 10:28:21,Violation,No person in frame
+2025-05-02 10:28:21,Violation,No face detected
+2025-05-02 10:28:21,Violation,No person in frame
+2025-05-02 10:28:21,Violation,No face detected
+2025-05-02 10:28:21,Violation,No person in frame
+2025-05-02 10:28:22,Violation,No face detected
+2025-05-02 10:28:22,Violation,No face detected
+2025-05-02 10:28:23,Violation,No person in frame
+2025-05-02 10:28:23,Violation,No face detected
+2025-05-02 10:28:23,Violation,No person in frame
+2025-05-02 10:28:23,Violation,No face detected
+2025-05-02 10:28:26,Violation,No person in frame
+2025-05-02 10:28:26,Violation,No face detected
+2025-05-02 10:28:27,Violation,No person in frame
+2025-05-02 10:28:27,Violation,No face detected
+2025-05-02 10:28:27,Violation,No person in frame
+2025-05-02 10:28:27,Violation,No face detected
+2025-05-02 10:28:28,Monitoring,Stopped
+2025-05-02 11:31:47,Identity Verification,Success
+2025-05-02 11:31:53,Monitoring,Started
+2025-05-02 11:32:01,Violation,No person in frame
+2025-05-02 11:32:01,Violation,No face detected
+2025-05-02 11:32:02,Violation,No person in frame
+2025-05-02 11:32:02,Violation,No face detected
+2025-05-02 11:32:02,Violation,No person in frame
+2025-05-02 11:32:02,Violation,No face detected
+2025-05-02 11:32:02,Violation,No person in frame
+2025-05-02 11:32:02,Violation,No face detected
+2025-05-02 11:32:02,Violation,No person in frame
+2025-05-02 11:32:02,Violation,No face detected
+2025-05-02 11:32:03,Violation,No person in frame
+2025-05-02 11:32:03,Violation,No face detected
+2025-05-02 11:32:03,Violation,No person in frame
+2025-05-02 11:32:03,Violation,No face detected
+2025-05-02 11:32:03,Violation,No person in frame
+2025-05-02 11:32:03,Violation,No face detected
+2025-05-02 11:32:03,Violation,No person in frame
+2025-05-02 11:32:03,Violation,No face detected
+2025-05-02 11:32:04,Violation,No face detected
+2025-05-02 11:32:04,Violation,No person in frame
+2025-05-02 11:32:04,Violation,No face detected
+2025-05-02 11:32:04,Violation,No person in frame
+2025-05-02 11:32:04,Violation,No face detected
+2025-05-02 11:32:04,Violation,No person in frame
+2025-05-02 11:32:04,Violation,No face detected
+2025-05-02 11:32:05,Violation,No person in frame
+2025-05-02 11:32:05,Violation,No face detected
+2025-05-02 11:32:05,Violation,No person in frame
+2025-05-02 11:32:05,Violation,No face detected
+2025-05-02 11:32:05,Violation,No person in frame
+2025-05-02 11:32:05,Violation,No face detected
+2025-05-02 11:32:05,Violation,No person in frame
+2025-05-02 11:32:05,Violation,No face detected
+2025-05-02 11:32:06,Violation,No person in frame
+2025-05-02 11:32:06,Violation,No face detected
+2025-05-02 11:32:06,Violation,No person in frame
+2025-05-02 11:32:06,Violation,No face detected
+2025-05-02 11:32:06,Violation,No person in frame
+2025-05-02 11:32:06,Violation,No face detected
+2025-05-02 11:32:07,Violation,No person in frame
+2025-05-02 11:32:07,Violation,No face detected
+2025-05-02 11:32:08,Violation,No person in frame
+2025-05-02 11:32:08,Violation,No face detected
+2025-05-02 11:32:09,Violation,No person in frame
+2025-05-02 11:32:09,Violation,No face detected
+2025-05-02 11:32:09,Violation,No person in frame
+2025-05-02 11:32:09,Violation,No face detected
+2025-05-02 11:32:10,Violation,No person in frame
+2025-05-02 11:32:10,Violation,No face detected
+2025-05-02 11:32:10,Violation,No person in frame
+2025-05-02 11:32:10,Violation,No face detected
+2025-05-02 11:32:10,Violation,No face detected
+2025-05-02 11:32:10,Violation,No person in frame
+2025-05-02 11:32:10,Violation,No face detected
+2025-05-02 11:32:11,Violation,No person in frame
+2025-05-02 11:32:11,Violation,No face detected
+2025-05-02 11:32:11,Violation,No person in frame
+2025-05-02 11:32:11,Violation,No face detected
+2025-05-02 11:32:11,Violation,No person in frame
+2025-05-02 11:32:11,Violation,No face detected
+2025-05-02 11:32:11,Violation,No person in frame
+2025-05-02 11:32:11,Violation,No face detected
+2025-05-02 11:32:12,Violation,No person in frame
+2025-05-02 11:32:12,Violation,No face detected
+2025-05-02 11:32:12,Violation,No person in frame
+2025-05-02 11:32:12,Violation,No face detected
+2025-05-02 11:32:12,Violation,No person in frame
+2025-05-02 11:32:12,Violation,No face detected
+2025-05-02 11:32:12,Violation,No person in frame
+2025-05-02 11:32:12,Violation,No face detected
+2025-05-02 11:32:13,Violation,No person in frame
+2025-05-02 11:32:13,Violation,No face detected
+2025-05-02 11:32:13,Violation,No person in frame
+2025-05-02 11:32:13,Violation,No face detected
+2025-05-02 11:32:13,Violation,No person in frame
+2025-05-02 11:32:13,Violation,No face detected
+2025-05-02 11:32:14,Violation,No person in frame
+2025-05-02 11:32:14,Violation,No face detected
+2025-05-02 11:32:14,Violation,No person in frame
+2025-05-02 11:32:14,Violation,No face detected
+2025-05-02 11:32:14,Violation,No person in frame
+2025-05-02 11:32:14,Violation,No face detected
+2025-05-02 11:32:15,Violation,No person in frame
+2025-05-02 11:32:15,Violation,No face detected
+2025-05-02 11:32:15,Violation,No person in frame
+2025-05-02 11:32:15,Violation,No face detected
+2025-05-02 11:32:15,Violation,No face detected
+2025-05-02 11:32:16,Violation,No person in frame
+2025-05-02 11:32:16,Violation,No face detected
+2025-05-02 11:32:16,Violation,No person in frame
+2025-05-02 11:32:16,Violation,No face detected
+2025-05-02 11:32:16,Violation,No person in frame
+2025-05-02 11:32:16,Violation,No face detected
+2025-05-02 11:32:16,Violation,No person in frame
+2025-05-02 11:32:16,Violation,No face detected
+2025-05-02 11:32:17,Violation,No person in frame
+2025-05-02 11:32:17,Violation,No face detected
+2025-05-02 11:32:17,Violation,No face detected
+2025-05-02 11:32:17,Violation,No person in frame
+2025-05-02 11:32:17,Violation,No face detected
+2025-05-02 11:32:18,Violation,No person in frame
+2025-05-02 11:32:18,Violation,No face detected
+2025-05-02 11:32:19,Violation,No person in frame
+2025-05-02 11:32:19,Violation,No face detected
+2025-05-02 11:32:19,Violation,No person in frame
+2025-05-02 11:32:19,Violation,No face detected
+2025-05-02 11:32:20,Violation,No face detected
+2025-05-02 11:32:20,Violation,No person in frame
+2025-05-02 11:32:20,Violation,No face detected
+2025-05-02 11:32:20,Violation,No person in frame
+2025-05-02 11:32:20,Violation,No face detected
+2025-05-02 11:32:21,Violation,No person in frame
+2025-05-02 11:32:21,Violation,No face detected
+2025-05-02 11:32:21,Violation,No person in frame
+2025-05-02 11:32:21,Violation,No face detected
+2025-05-02 11:32:21,Violation,No person in frame
+2025-05-02 11:32:21,Violation,No face detected
+2025-05-02 11:32:23,Monitoring,Stopped

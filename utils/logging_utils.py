@@ -34,7 +34,7 @@ def log_event(event_type, details):
             
             st.session_state.log_data.append(log_entry)
             
-            # Keep only the last 100 events in memory
+            
             if len(st.session_state.log_data) > 100:
                 st.session_state.log_data = st.session_state.log_data[-100:]
         

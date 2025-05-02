@@ -21,7 +21,7 @@ def verify_identity(reference_image, current_image, model_name='VGG-Face', dista
         tuple: (verification_result, confidence_score)
     """
     try:
-        # Use DeepFace for verification
+
         result = DeepFace.verify(
             img1_path=reference_image,
             img2_path=current_image,
@@ -51,7 +51,7 @@ def verify_identity(reference_image, current_image, model_name='VGG-Face', dista
         logger.error(f"Face verification error: {str(e)}")
         return False, 0.0
 
-def extract_face_embeddings(image, model_name='VGG-Face'):
+def extract_face_embeddings(image, model_name='Facenet'):
     """
     Extract face embeddings from an image.
     
